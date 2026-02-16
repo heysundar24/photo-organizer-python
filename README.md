@@ -6,4 +6,4 @@ This script organizes photos by year using EXIF metadata.
 pip install pillow
 
 ## Run
-python photoMove.py
+python photoOrgonizeByYear.py
